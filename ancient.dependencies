@@ -3,19 +3,19 @@
                 "remote":"github",
                 "repository":"ancient-devices/device_xiaomi_tissot",
                 "target_path":"device/xiaomi/tissot",
-                "branch":"eleven"
+                "branch":"twelve"
         },
 	{
 		"remote":"github",
 		"repository":"ancient-devices/device_xiaomi_msm8953-common",
 		"target_path":"device/xiaomi/msm8953-common",
-		"branch":"eleven"
+		"branch":"twelve"
 	},
 	{
 		"remote":"github",
 		"repository":"ancient-devices/kernel_xiaomi_tissot",
 		"target_path":"kernel/xiaomi/msm8953",
-		"branch":"eleven"
+		"branch":"twelve"
 	},
 	{
 		"remote":"github",
